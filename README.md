@@ -5,14 +5,14 @@ Welcome to the GitHub repository! Here, you'll find two separate Liquid files th
 
 ## File 1
  Product Links with Conditional Display
-The first file, named 3 product listing, allows you to display product links along with images. The images will be displayed conditionally when a product link is associated with a button placed under the image. This method enhances user engagement by showing images only when relevant actions are available.
+The first file, named " 3-Image-product-listing.liquid ", allows you to display product links along with images. The images will be displayed conditionally when a product link is associated with a button placed under the image. This method enhances user engagement by showing images only when relevant actions are available.
 ![ImageLinks](https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/f1473aa4-8dc9-4ff5-81b7-2177dfbf8974)
 
 https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/750376c2-1dc0-4515-9ae2-60dd2193b641
 
 ## File 2
 Page and Collection Links with Conditional Display
-The second file, named 3 product with pages and collection links, provides a broader scope by enabling you to display both pages and collection links alongside images. Similar to the first file, images will be displayed conditionally when either a page or collection link is linked using a button placed under the image. This approach offers versatility in showcasing products and collections while maintaining a clean and interactive interface.
+The second file, named " 3-Image-collection_pages-listing.liquid ", provides a broader scope by enabling you to display both pages and collection links alongside images. Similar to the first file, images will be displayed conditionally when either a page or collection link is linked using a button placed under the image. This approach offers versatility in showcasing products and collections while maintaining a clean and interactive interface.
 
 
 ![ImageZoom](https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/a8f75e0d-0f1a-47e5-b7de-f5209c48590a)
