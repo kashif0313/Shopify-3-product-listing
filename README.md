@@ -16,8 +16,8 @@ The second file, named 3 product with pages and collection links, provides a bro
 
 
 ![ImageZoom](https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/a8f75e0d-0f1a-47e5-b7de-f5209c48590a)
+https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/9e5d16e4-6cbf-4b01-81f0-a0de0e1477c8
 
-https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/0907bc89-654d-4fbe-a3ec-0667d77044d0
 
 ## Introduction
 
@@ -27,8 +27,8 @@ This repository provides a Liquid file named `3-product-listing.liquid` that all
 
 Watch the video below to see how the three products are displayed in a row:
 
+https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/0907bc89-654d-4fbe-a3ec-0667d77044d0
 
-https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/9e5d16e4-6cbf-4b01-81f0-a0de0e1477c8
 
 
 ## Cloning the Repository
