@@ -4,8 +4,9 @@ Shopify Liquid Files for Product and Collection Links with Conditional Display
 Welcome to the GitHub repository! Here, you'll find two separate Liquid files that enable you to display product and collection links with images within your Shopify store. The images will only be displayed when a collection or page is linked using a button under the image.
 
 ## File 1
- Product Links with Conditional Display
+Product Links with Conditional Display
 The first file, named " 3-Image-product-listing.liquid ", allows you to display product links along with images. The images will be displayed conditionally when a product link is associated with a button placed under the image. This method enhances user engagement by showing images only when relevant actions are available.
+
 ![ImageLinks](https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/f1473aa4-8dc9-4ff5-81b7-2177dfbf8974)
 
 https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/750376c2-1dc0-4515-9ae2-60dd2193b641
@@ -16,6 +17,7 @@ The second file, named " 3-Image-collection_pages-listing.liquid ", provides a b
 
 
 ![ImageZoom](https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/a8f75e0d-0f1a-47e5-b7de-f5209c48590a)
+
 https://github.com/kashif0313/Shopify-3-product-listing/assets/65242138/9e5d16e4-6cbf-4b01-81f0-a0de0e1477c8
 
 
